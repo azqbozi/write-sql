@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777259673860-2xaoojq8t",
+  "providerId": "claude",
+  "title": "你好",
+  "createdAt": 1777259673860,
+  "updatedAt": 1777272513434,
+  "lastResponseAt": 1777272513434,
+  "sessionId": "defccc09-7f32-48bb-92c9-81baee369e8e",
+  "providerState": {
+    "providerSessionId": "defccc09-7f32-48bb-92c9-81baee369e8e"
+  },
+  "currentNote": "claude/skills/references/metrics/业务口径库.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 9276,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 9276,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

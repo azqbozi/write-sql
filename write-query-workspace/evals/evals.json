@@ -1,0 +1,20 @@
+{
+  "skill_name": "write-query",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮我查一下2026年3月的宽带入网数，特别关注一下129+宽带的新装情况",
+      "expected_output": "生成的SQL应该引用指标字典中的'主宽入网数'和'129+宽带入网数'，使用ads_yz_kd_new_list和ads_yz_tb_comm_cm_all_final表，包含正确的筛选条件如kd_desc='普通宽带'、prod_type等"
+    },
+    {
+      "id": 2,
+      "prompt": "统计一下积分相关的指标，包括净增积分、存量积分、揽装积分",
+      "expected_output": "应该匹配到指标字典中'净增积分'、'存量价值积分'、'揽装价值积分'等指标，对应ads_yz_tb_tyks_score_inc_mtd和ads_yz_score_all_list表"
+    },
+    {
+      "id": 3,
+      "prompt": "我想分析一下移动的入网质量，看看T+n的有效率、欠费率、拆机率",
+      "expected_output": "应该引用'移动T+n号码有效率'、'移动T+n欠费率'、'移动T+n拆机率'等专题指标，使用ads_yz_tb_comm_cm_all_final表"
+    }
+  ]
+}

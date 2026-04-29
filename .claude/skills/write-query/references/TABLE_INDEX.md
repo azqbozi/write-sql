@@ -4,19 +4,19 @@
 
 ## 核心事实表
 
-| 序号 | 表名 | Hive表名 | 业务主题标签 |
-|------|------|---------|------------|
-| 69 | 全业务资料表 | ads_yz_tb_comm_cm_all_final | 渠道、产品、销量、主体 |
-| 60 | 移动新装清单 | dwd_yz_cm_cdma_ydxz_list | 移动新装 |
-| 62 | 宽带新装清单 | ads_yz_kd_new_list | 宽带新装 |
-| 44 | 全业务号码订单表 | dwm_yz_rpt_comm_ba_subs_final | 订单 |
-| 21 | 拍照客户清单 | ads_pzkh_list | 客户 |
-| 58 | 小微客户数清单 | ads_yz_cust_ict_list_mon_final | 小微客户 |
-| 19 | 存量追踪月清单 | ads_clzz_list | 存量 |
-| 22 | 应收月考核客户级宽表 | zone_gz_yz.ads_ys_lst_km_ys_month_push | 应收、考核 |
-| 56 | 合约清单 | dwm_yz_cm_cdma_hy_final | 合约 |
-| 57 | 小微ICT竣工清单 | ads_yz_xwict_all_list | 小微、竣工 |
-| 59 | 移动划小清单 | ads_yz_cdma_hx_list | 移动、划小 |
+| 序号  | 表名         | Hive表名                                 | 业务主题标签      |
+| --- | ---------- | -------------------------------------- | ----------- |
+| 69  | 全业务资料表     | ads_yz_tb_comm_cm_all_final            | 渠道、产品、销量、主体 |
+| 60  | 移动新装清单     | dwd_yz_cm_cdma_ydxz_list               | 移动新装        |
+| 62  | 宽带新装清单     | ads_yz_kd_new_list                     | 宽带新装        |
+| 44  | 全业务号码订单表   | dwm_yz_rpt_comm_ba_subs_final          | 订单          |
+| 21  | 拍照客户清单     | ads_pzkh_list                          | 客户          |
+| 58  | 小微客户数清单    | ads_yz_cust_ict_list_mon_final         | 小微客户        |
+| 19  | 存量追踪月清单    | ads_clzz_list                          | 存量          |
+| 22  | 应收月考核客户级宽表 | zone_gz_yz.ads_ys_lst_km_ys_month_push | 应收、考核       |
+| 56  | 合约清单       | dwm_yz_cm_cdma_hy_final                | 合约          |
+| 57  | 小微ICT竣工清单  | ads_yz_xwict_all_list                  | 小微、竣工       |
+| 59  | 移动划小清单     | ads_yz_cdma_hx_list                    | 移动、划小       |
 
 ## 收入表
 
@@ -30,6 +30,7 @@
 | 50 | 宽带到达套餐收入清单 | ads_yz_kddd_tcsr_list | 宽带、套餐收入 |
 | 51 | 小微ict场景化收入数据 | ads_yz_scb_ict_fee_list | 小微、场景化收入 |
 | 39 | 小业务收入多维表 | ads_yz_ict_all_ydxyw_sr_LIST | 小业务收入 |
+| 29 | 小微清单2024 | zone_gz_yz.ads_yz_ict_all2024_LIST | 小微、ICT |
 
 ## 续约表
 
@@ -76,16 +77,16 @@
 
 ## 补充表
 
-| 序号 | 表名 | Hive表名 | 业务主题标签 |
-|------|------|---------|------------|
-| 71 | 优惠资料表 | ads_yz_rpt_comm_cm_msdisc_final | 优惠 |
-| 90 | 欠费日清单 | ads_ys_lst_qf_pushdata_daily_bss | 欠费 |
-| 91 | 滞纳金清单 | dwm_tb_zhinajin_baobiao_list_ys_site_mon | 滞纳金 |
-| 45 | 欠不列预警清单 | zone_gz_yz.ads_ys_qblyj_daily | 欠不列、预警 |
-| 54 | 基础业务托收清单 | ads_yz_tb_cl_tuoshou_list | 托收 |
-| 98 | 存量未托收清单 | ads_yz_clts_change_list_mon | 存量、未托收 |
-| 6 | 欠补列日清单 | zone_gz_yz.ads_ys_qbl_real | 欠补列 |
-| 9 | 历史欠不列月清单 | zone_gz_yz.view_ads_ys_lst_qbl_mon | 历史欠不列 |
+| 序号  | 表名       | Hive表名                                   | 业务主题标签 |
+| --- | -------- | ---------------------------------------- | ------ |
+| 71  | 优惠资料表    | ads_yz_rpt_comm_cm_msdisc_final          | 优惠     |
+| 90  | 欠费日清单    | ads_ys_lst_qf_pushdata_daily_bss         | 欠费     |
+| 91  | 滞纳金清单    | dwm_tb_zhinajin_baobiao_list_ys_site_mon | 滞纳金    |
+| 45  | 欠不列预警清单  | zone_gz_yz.ads_ys_qblyj_daily            | 欠不列、预警 |
+| 54  | 基础业务托收清单 | ads_yz_tb_cl_tuoshou_list                | 托收     |
+| 98  | 存量未托收清单  | ads_yz_clts_change_list_mon              | 存量、未托收 |
+| 6   | 欠补列日清单   | zone_gz_yz.ads_ys_qbl_real               | 欠补列    |
+| 9   | 历史欠不列月清单 | zone_gz_yz.view_ads_ys_lst_qbl_mon       | 历史欠不列  |
 
 ## 客户类
 
@@ -135,3 +136,4 @@
 
 ## 来源
 基于 `CDAP清单拆分/` 目录下的 104 个 Excel 清单文件。
+

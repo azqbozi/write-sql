@@ -11,14 +11,10 @@
             "id": "cc7e9ef6549cc655",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "069_全业务资料表.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "069_全业务资料表"
+              "title": "新标签页"
             }
           }
         ]
@@ -156,17 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "069_全业务资料表.md",
+                "file": "claude/skills/references/metrics/业务口径库.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "069_全业务资料表 的大纲"
+              "title": "业务口径库 的大纲"
             }
           },
           {
-            "id": "b159f6755f92a88a",
+            "id": "55e000c1cd134dfb",
             "type": "leaf",
             "state": {
               "type": "claudian-view",
@@ -180,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 650.5
+    "width": 948.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +190,43 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "b159f6755f92a88a",
+  "active": "55e000c1cd134dfb",
   "lastOpenFiles": [
-    "references/metrics/业务口径库.md",
-    "references/metrics",
-    "references"
+    "claude/skills/write-query/references/metrics/专题/M-TOPIC-BB-004_宽带T+n拆机率.md",
+    "claude/skills/write-query/references/metrics/专题/M-TOPIC-BB-003_宽带T+n停机率.md",
+    "claude/skills/write-query/references/metrics/专题/M-TOPIC-BB-002_宽带T+n欠费率.md",
+    "claude/skills/write-query/references/metrics/专题/M-TOPIC-BB-001_宽带T+n有效率.md",
+    "claude/skills/write-query/references/metrics/专题/M-TOPIC-BIZ-002_商企提值积分.md",
+    "claude/skills/write-query/references/metrics/专题/M-TOPIC-BIZ-001_商企新入网.md",
+    "claude/skills/write-query/references/metrics/专题/M-TOPIC-CLOUD-001_云桌面台数到达数.md",
+    "claude/skills/write-query/references/metrics/专题/商企.md",
+    "claude/skills/write-query/references/metrics/专题/宽带.md",
+    "claude/skills/write-query/references/metrics/专题/积分.md",
+    "claude/skills/write-query/references/metrics/INDEX.md",
+    "claude/skills/write-query/references/metrics/战新/移动.md",
+    "claude/skills/write-query/references/metrics/战新/小业务.md",
+    "claude/skills/write-query/references/metrics/战新/云业务.md",
+    "claude/skills/write-query/references/metrics/战新",
+    "claude/skills/write-query/references/metrics/基本面",
+    "claude/skills/write-query/references/metrics/专题",
+    "claude/skills/write-query/references/demand-cases/Q-20260427-001_按营服汇总主宽与129宽带入网.md",
+    "claude/skills/write-query/references/demand-cases/INDEX.md",
+    "claude/skills/write-query/references/demand-cases/_template.md",
+    "claude/skills/write-query/references/demand-cases",
+    "claude/skills/write-query/references/metric_bridge.md",
+    "claude/skills/write-query/references/metrics/README.md",
+    "claude/skills/write-query/references/metrics",
+    "claude/skills/write-query/references/KNOWLEDGE_LAYERS.md",
+    "claude/skills/write-query/references/tables/069_全业务资料表.md",
+    "claude/skills/write-query/references/tables/029_小微清单2024.md",
+    "claude/skills/write-query/references/069_全业务资料表.md",
+    "claude/skills/write-query/references/TABLE_INDEX.md",
+    "未命名 5.base",
+    "未命名 4.base",
+    "未命名 3.base",
+    "未命名 2.base",
+    "未命名 1.base",
+    "claude/skills/write-query/references/metric_table_map.md",
+    "claude/skills/write-query/references/指标字典.md"
   ]
 }
